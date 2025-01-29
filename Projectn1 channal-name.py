@@ -5,4 +5,4 @@ print ("You could name your channel " + "(" + Job + " with " + nick_name + ")")
 input ("do you want to know how many letters are in your nick name? \n" )
 print (len (nick_name)) 
 
-#hi
+#hi how are you
