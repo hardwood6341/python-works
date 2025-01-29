@@ -6,3 +6,4 @@ input ("do you want to know how many letters are in your nick name? \n" )
 print (len (nick_name)) 
 
 #hi evry body be quite plase there is  alot  of pepole
+#my last repositry
