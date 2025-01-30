@@ -1,4 +1,4 @@
-#first method
+# #first method
 total_second = int (input ("Please enter the number of seconds:\n"))
 h = total_second //3600
 remining_second = total_second % 3600
@@ -20,4 +20,11 @@ print ("The total time of the course is" ,h,"hours and" ,m,"minuts and" ,s,"seco
 # h = int (total_second / 3600)
 # m= int (((total_second) - ( h *3600)) / 60) 
 # s = (((total_second) - ( h *3600))- (m * 60))
+# print ("The total time of the course is" ,h,"hours and" ,m,"minuts and" ,s,"seconds")
+
+# # #fourth method
+# total_second = int (input ("Please enter the number of seconds:\n"))
+# h = total_second //3600
+# m= (total_second % 3600) // 60 
+# s = total_second  % 60
 # print ("The total time of the course is" ,h,"hours and" ,m,"minuts and" ,s,"seconds")
