@@ -1,3 +1,5 @@
-print ("hello world")
-value ("what is your age")
-My Name Hider
+Length = input ("Please type Length : \n")
+Width = input ("Please type Width : \n")
+Price = input (" how much for 1 meter? \n")
+print (" total erae is :" , (float (Length) * float (Width)))
+print (" Give the guy :",((float (Length)* float (Width)) * (float (Price)) ))
