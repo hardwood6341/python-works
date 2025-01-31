@@ -1,8 +1,12 @@
 # project 6 useing if
 
-print ("Welcom to my appplication")
-a = int (input ("how old are you?\n"))
-if a < 12:
-  print ("your are baby")
+print ("Welcom my student")
+a = int (input ("what is yours degree?\n"))
+if a >= 90 :
+  print ("excellent")
+elif a >= 75:
+ print ("good")
+elif a >= 50:
+  print (" acceptable ")
 else:
-  print ("you are a man")
+  print ("weak, sudy hard next time")
