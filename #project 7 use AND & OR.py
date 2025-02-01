@@ -8,4 +8,4 @@ else :
   print ("sorry, you can't drive")
 
 #تم استعمال lower  ❤️
-# ومعرفة فائدة or , and والفرق بينهم ❤️
+# ومعرفة فائدة or , and والفرق بينهم  ❤️

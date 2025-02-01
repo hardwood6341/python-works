@@ -6,7 +6,7 @@ print (" total erae is :" , (float (Length) * float (Width)))
 print (" Give the guy :",((float (Length)* float (Width)) * (float (Price)) ))
 
 # هنا الشيء المهم انه يمكن في حالة وضع فارزه ان نجعل 
-#print يطبع اكثر من نوع داتا
+#print يطبع اكثر من نوع داتا ❤️
 
 # #second method
 # x = input (" what is the length? \n")

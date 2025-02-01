@@ -12,7 +12,7 @@ else:
   print ("weak, study hard next time")
 
   
- #we can use a lot numbers of "elif" 
+ #we can use a lot numbers of "elif"  ❤️
 
  
  #alternative projects
