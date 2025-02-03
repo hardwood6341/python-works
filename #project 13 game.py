@@ -5,8 +5,7 @@ print ("""Chooose a method to toss the coin:
 2. Using random.randint()""")
 a = int (input ("enter your choise (1 or 2):"))
 if a == 1:
-  b = random.random() 
-  if b> 0.5:
+  if random.random()> 0.5:
     c= "heads"
   else:
     c= "tails"
