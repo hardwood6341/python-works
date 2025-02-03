@@ -20,3 +20,14 @@ print (close_friend)
 # else:
 #   print (f"The color you like is {colors}")
 
+#project 3 
+# lass_a = [ "ahmed", "ali" , "saif"]
+# class_b = [ "alex", "john", "zaenab"]
+# class_a.extend(class_b) 
+# print (class_a,class_b)
+
+#project 4
+# class_a = [ "ahmed", "ali" , "saif"]
+# class_b = [ "alex", "john", "zaenab"]
+# student = class_a + class_b 
+# print (student)
