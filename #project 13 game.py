@@ -22,3 +22,4 @@ if d == c :
   print ("correct")
 else:
   print (" you lose")
+  print (f"the computer's coin tossd result was : {c}")
