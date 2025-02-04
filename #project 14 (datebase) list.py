@@ -56,3 +56,17 @@ print (close_friend)
 #   print ("good bye ali")
 
 #شرح داله in ❤️
+
+# home= [ ["ali","ahmed"] ,["haider","saif"]]
+# print (home[0][1], home[1][0])
+# a =[["zyanab","ali"]]
+# home.extend(a)
+
+#another method
+# a= ["zyanab","ali"]
+# home.append(a)
+
+# #another method
+# #home.append(["zyanab","ali"])
+# print (home)
+

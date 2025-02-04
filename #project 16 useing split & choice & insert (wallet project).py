@@ -18,4 +18,9 @@ a = input ("If you're ready, enter the names separated by a comma: ").split(", "
 d = random.choice(a)
 print (f"Please ask '{d}' to take his wallet out. Dinner is on him")
 
+#using insert
+# a = [1,2,4]
+# a.insert(2,3)
+# print (a)
+
 #لازم تعرف استخدام spilt و choice 
