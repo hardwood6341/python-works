@@ -31,3 +31,28 @@ print (close_friend)
 # class_b = [ "alex", "john", "zaenab"]
 # student = class_a + class_b 
 # print (student)
+
+# #project 5 
+# friend = ["ali", "saif", "ahmed", "ibrahim", "sarah"]
+# الامر اسفل لحساب عدد العناصر
+# print (len(friend))    
+# لاختيار رقم او اكثر
+# print (friend[1:5])
+# يمكن اختيار مجموعه محدده لل slicing  ❤️\
+
+#project 6 
+
+# friend = ["ali", "saif", "ahmed", "ibrahim", "sarah"]
+# close_friend = ["yusra", "mahmoud"]
+# print (friend[2:])
+# friend.extend(close_friend)
+# friend.remove("yusra") 
+# close_friend.append("mariam")
+# print (friend)
+# print (close_friend + friend )
+# if "ali" in friend : 
+#   print ("hello ali")
+# else:
+#   print ("good bye ali")
+
+#شرح داله in ❤️
