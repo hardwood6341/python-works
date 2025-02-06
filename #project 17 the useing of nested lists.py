@@ -10,7 +10,6 @@ if x == "":
     fruits[1].remove('tea')
     fruits.append(['red','blur','black'])
     fruits[1].extend(fruits[3])
-    fruits[1:2]
     print ("""here is the update of the list:
            
     """,fruits)
