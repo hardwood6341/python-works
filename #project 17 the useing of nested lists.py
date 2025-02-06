@@ -15,4 +15,3 @@ if x == "":
     """,fruits)
 else:
     print ("what the fuck of you do!!")
-
