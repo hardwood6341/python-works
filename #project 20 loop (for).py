@@ -84,3 +84,10 @@ print ("the loop greated than 8 numbers is finshed seccsifly")
 #         not_good.append(y)
 #         print("Try not to put it down")
 # print(f"***** Done tasks ***** {good}")
+
+#subproject
+# print("***welcome to the multiplication table***")
+# x= int (input ("enter a  number:"))
+# for y in range(1,11):
+#     c = x * y
+#     print (x ,"*" , y ,"=", c)
