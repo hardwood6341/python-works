@@ -119,3 +119,11 @@ print ("the loop greated than 8 numbers is finshed seccsifly")
 #         input ("press enter to exit")
 #     else:
 #         print (sum(cost))
+
+#subproject 7 😎لاسف هذا المثال تاخرت الى ان حليته
+#اعمل برنامج لجمع النواتج يبدا بال1❤️
+# numbers = [1,2,3,4,5]
+# x =0
+# for y in numbers:
+#  x += y
+#  print (x)
