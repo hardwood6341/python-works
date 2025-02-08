@@ -85,9 +85,37 @@ print ("the loop greated than 8 numbers is finshed seccsifly")
 #         print("Try not to put it down")
 # print(f"***** Done tasks ***** {good}")
 
-#subproject
+#subproject 5
 # print("***welcome to the multiplication table***")
 # x= int (input ("enter a  number:"))
 # for y in range(1,11):
 #     c = x * y
 #     print (x ,"*" , y ,"=", c)
+
+#subproject 6
+# print ("**** Welcom to iShop calculator ****")
+# basket = []
+# cost = []
+# c = int (input ("\nHow many items are there in your basket today?: "))
+# if c == 0:
+#     print ("you come not to buy thinks, so just goaway")
+# else:
+#  print ("\nLet's get to counting them...")
+#  for y in range (1,c+1):
+#   a = input (f"Please tell me the name of the item number {y}: ") 
+#   basket.append(a)
+#   n =  input (f"What is the price of {a}: ").split('$') #output ['1.1','']
+#   for y in n:
+#         if y:
+#          cost.append(float(y))
+#  b = input ("Would you like to see your entire basket items? (yes or no): ").lower()
+#  if b != 'yes':
+#     input ("press enter to exit")
+    
+#  else:
+#     print (basket)
+#     d = input ("Would you like to see how much it'll cost?( yes or no): ").lower()
+#     if d != 'yes':
+#         input ("press enter to exit")
+#     else:
+#         print (sum(cost))
