@@ -1,18 +1,11 @@
 # input: ali ahmed, yasser alwan, mouhamed hasan
-a = input("Enter the first and last name of your friends separated by comma:").split(", ")
-# output ['ali ahmed', 'yasser alwan', 'mouhamed hasan']
-for name in a:
-    x = name.split(" ")
-    # output ['ali', 'ahmed']
-    #  ['yasser', 'alwan']
-t applying     #  ['mouhamed', 'hasa']
-    s = [] 
-    b = []
-    for part in x:
-        s.append(part.capitalize())
-    print(s)
-
-# output ['
-#ali', 'ahmed', 'yasser', 'alwan', 'mouhamed', 'hasan']
-# print (result)
-# # ali ahmed, yasser alwan, mouhamed hasa
+names = input (" write the names sapareted by comama :").split(", ")
+#output ["ali ahmes", "yasser alwan", "mouhamed hasan"]
+for x in names:
+  single_names=  x.split(" ")
+#['ali', 'ahmed']
+# ['yasser', 'alwan']
+# ['mouhamed', 'hasan']
+  for a in single_names:
+     capitalize_names = a.capitalize
+     print (capitalize_names)
