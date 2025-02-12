@@ -6,8 +6,10 @@ for x in names:
 #['ali', 'ahmed']
 # ['yasser', 'alwan']
 # ['mouhamed', 'hasan']
+  result = []
   for a in single_names:
-     capitalize_names = a.capitalize
-     print (capitalize_names) 
-  # output ahmed alsaedS
-  # my other output 
+     print (a)
+     capitalize_names = a.capitalize()
+     result.append(capitalize_names)
+  print (result)
+  
