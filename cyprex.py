@@ -10,3 +10,4 @@ for x in names:
      capitalize_names = a.capitalize
      print (capitalize_names) 
   # output ahmed alsaedS
+  # my other output 
