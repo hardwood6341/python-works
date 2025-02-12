@@ -8,4 +8,5 @@ for x in names:
 # ['mouhamed', 'hasan']
   for a in single_names:
      capitalize_names = a.capitalize
-     print (capitalize_names)
+     print (capitalize_names) 
+  # output ahmed alsaedS
