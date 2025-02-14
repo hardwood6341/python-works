@@ -1,6 +1,6 @@
 #difficult projects
 
-#project 1 (حلقه رقم 50)
+#!project 1 (حلقه رقم 50)
 # TODO: write the names separated by comma :
 # input: ali ahmed, yassir alwan, mohamed hasan
 # output :   ['Ali', 'Ahmed']
