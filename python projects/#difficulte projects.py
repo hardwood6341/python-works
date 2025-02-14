@@ -35,7 +35,7 @@ for x in names:
 for i in range(0, len(capitalize_letter),2):
     print(f"{capitalize_letter[i]}.{capitalize_letter[i+1]}.")
 
-#! method 2
+#! method 2 (اذا المستخدم ادخل حروف كبيره)
 names = input ( 
   "Enter the first and last name of your friends separate by comma:").split(", ")
 print ("\n".join(names))
