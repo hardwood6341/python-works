@@ -1,8 +1,8 @@
-#difficulte projects
+#difficult projects
 
-#project 1
-#TODO: write the names sapareted by comama :
-# input: ali ahmed, yasser alwan, mouhamed hasan
+#project 1 (حلقه رقم 50)
+# TODO: write the names separated by comma :
+# input: ali ahmed, yassir alwan, mohamed hasan
 # output :   ['Ali', 'Ahmed']
 #             ['Yasser', 'Alwan']
 #             ['Mouhamed', 'Hasan']
@@ -12,7 +12,7 @@
 #             M.H.
 
 #NOTE: input: ali ahmed, yasser alwan, mouhamed hasan
-names = input (" write the names sapareted by comama :").split(", ")
+names = input (" write the names separated by comma :").split(", ")
 #output ["ali ahmes", "yasser alwan", "mouhamed hasan"]
 for x in names:
   single_names=  x.split(" ")
@@ -25,7 +25,7 @@ for x in names:
     capitalize_names = a.capitalize()
     result.append(capitalize_names)
   print (result)
-print ("abbrevated_Names:")
+print ("abbreviated_Names:")
 for x in names:
   single_names=  x.split(" ") 
   for b in single_names:
