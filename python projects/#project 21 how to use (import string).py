@@ -73,11 +73,15 @@ d= random.choices(string.digits, k=number)
 symbol = int(input ("Enter the total number of symbols in the password: "))
 e= random.choices(string.punctuation, k=symbol)
 if (len(c +d +e))  == total:
+# or we can use --> if letter +number +symbol == total:
  c.extend(d)
  c.extend(e)
  random.shuffle(c)
  print (f" Generated Password: {"".join(c)}")
+ #or we can use--> password= c+d+e
+ #and then -->  random.shuffle(password)
+ #and then --> print (f" Generated Password: {"".join(password)}")
 else:
  print (
-    "invild input! the total number of characters is not equal with the entries "
+    "invalid input! the total number of characters is not equal with the entries "
     )
