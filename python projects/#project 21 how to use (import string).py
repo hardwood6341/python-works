@@ -59,7 +59,7 @@ print (real_sentence)
 # Enter the total number of symbols in the password:
 
 #* output : # Generated Password: U5~%bQ000u
-#*             invild input! the total number is not equal with the entries
+#*             invalid input! the total number is not equal with the entries
 
 
 import string
